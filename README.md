@@ -9,6 +9,7 @@ Concrete is one of the most important materials in Civil Engineering. Knowing th
 ## 1. Problem Statement
 Predicting Compressive Strength of Concrete given its age and quantitative measurements of ingredients.
 Modeling of strength of high performance concrete using Machine Learning.
+https://docs.google.com/document/d/10oVqW5Nv7lr_dERYoTK9TO3OB23WRa3b/edit
 
 ### Context
 
@@ -18,8 +19,8 @@ Concrete is the most important material in civil engineering. The concrete compr
 
 The actual concrete compressive strength (MPa) for a given mixture under a specific age (days) was determined from laboratory. Data is in raw form (not scaled).The data has 8 quantitative input variables, and 1 quantitative output variable, and 1030 instances (observations).
 
-Data is obtained from UCI Machine Learning Repository.
-https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+Data is obtained from
+https://drive.google.com/file/d/1J7fMxEFl8C0JUNa_2UqcOy8qnBmNcIvP/view?usp=sharing
 
 * Number of instances - 1030
 * Number of Attributes - 9
