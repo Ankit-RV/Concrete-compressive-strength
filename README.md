@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1J7fMxEFl8C0JUNa_2UqcOy8qnBmNcIvP/view?usp=shari
 
 #### Attribute information
 ##### Inputs
-* Cement
+* Cement 
 * Blast Furnace Slag
 * Fly Ash
 * Water
