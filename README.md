@@ -36,7 +36,7 @@ https://drive.google.com/file/d/1J7fMxEFl8C0JUNa_2UqcOy8qnBmNcIvP/view?usp=shari
 * Coarse Aggregate
 * Fine Aggregate
 
-All above features measured in kg/$m^3$
+All above features measured in kg/m^3
 
 * Age (in days)
 
