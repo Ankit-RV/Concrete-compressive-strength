@@ -1,4 +1,4 @@
-# Concrete-compressive-strength
+# Concrete compressive strength
 Modeling of strength of high performance concrete using Machine Learning.
 
 ## Concrete Compressive Strength Prediction using Machine Learning
