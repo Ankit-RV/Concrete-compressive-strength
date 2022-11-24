@@ -55,7 +55,19 @@ All above features measured in kg/m^3
 
 
 
+## 4. Result
+**Feature correlation**
+![image](https://user-images.githubusercontent.com/53686812/203727759-45e036e7-c656-4292-9bfe-4c283c7450d2.png)
 
-## 4. Conclusion
+**Feature importance**
+![image](https://user-images.githubusercontent.com/53686812/203728127-cf0b7223-a75c-4503-ba51-31613906ffaa.png)
+
+**Final Comparison**
+![image](https://user-images.githubusercontent.com/53686812/203728520-aa55da20-3be8-4c86-8fea-376fbc913026.png)
+
+
+
+
+## 5. Conclusion
 
 I analysed the Compressive Strength Data and used Machine Learning to Predict the Compressive Strength of Concrete. We have used Linear Regression, Decision Trees and Random Forests to make predictions and compared their performance. **Random Forest Regressor** has the lowest RMSE and is a good choice for this problem. Also, we can further improve the performance of the algorithm by tuning the hyperparameters by performing a grid search or random search.
