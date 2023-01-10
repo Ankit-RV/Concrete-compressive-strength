@@ -88,4 +88,6 @@ All above features measured in kg/m^3
 
 ## 5. Conclusion
 
-I analysed the Compressive Strength Data and used Machine Learning to Predict the Compressive Strength of Concrete. We have used Linear Regression, Decision Trees and Random Forests to make predictions and compared their performance. **Random Forest Regressor** has the lowest RMSE and is a good choice for this problem. Also, we can further improve the performance of the algorithm by tuning the hyperparameters by performing a grid search or random search.
+Evaluate the components that are highly correlated with concrete compressive strength and other components that are less influential and can be neglected through visualization or correlation matrix. In this study, used different machine learning techniques to analyze and predict the concrete compressive strength. Different modeling techniques will be used for the prediction. The modeling technique include multiple linear regression, decision tree, and random forest, etc. A comparative analysis will be performed to identify the best model for our prediction in terms of accuracy. Used Linear Regression, Decision Trees and Random Forests to make predictions and compared their performance. **Random Forest Regressor** has the lowest RMSE and is a good choice for this problem. Also, we can further improve the performance of the algorithm by tuning the hyperparameters by performing a grid search or random search.
+
+The best model will be helpful for civil engineers in choosing the appropriate concrete for any kind of construction work.
