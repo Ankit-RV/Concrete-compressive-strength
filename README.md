@@ -55,6 +55,12 @@ All above features measured in kg/m^3
 
 * Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
 
+#### process
+
+* Downloaded concrete strength data from UCI Repository. Instigate this data in SSMS database and perform ETL to remove outliers, clean up bad records, normalize revenue numbers to standards format using python, google colab and two standard deviation along with some other statistical techniques.
+* Used Linear regression, Decision Trees and Random Forests algorithms for building the model. Since the target variable is a continuous variable, regression evaluation metric RMSE and R2 Score have been used.
+
+
 
 
 
