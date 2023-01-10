@@ -1,5 +1,8 @@
 # Concrete compressive strength
-Modeling of strength of high performance concrete using Machine Learning.
+
+### Description and Project Overview
+
+… The objective of this project is trying to predict the concrete compressive strength based important predictors. The study will consist of evaluating the impact of different factors such as cement, water, age, fly ash, and or additives. We will evaluate the components that are highly correlated with concrete compressive strength and other components that are less influential and can be neglected through visualization or correlation matrix.
 
 ## Concrete Compressive Strength Prediction using Machine Learning
 
@@ -17,7 +20,7 @@ Concrete is the most important material in civil engineering. The concrete compr
 
 ## 2. Data Description
 
-The actual concrete compressive strength (MPa) for a given mixture under a specific age (days) was determined from laboratory. Data is in raw form (not scaled).The data has 8 quantitative input variables, and 1 quantitative output variable, and 1030 instances (observations).
+This project will be based on a dataset obtained from the UCI Repository. The dataset consists of 1030 observations under 9 attributes. The attributes consist of 8 quantitative inputs and 1 quantitative output. The dataset does not contain any missing values. The dataset is focused on the compressive strength of a concrete. The attributes include factors that affect concrete strength such as cement, water, aggregate (coarse and fine), and fly ash etc.
 
 Data is obtained from
 https://drive.google.com/file/d/1J7fMxEFl8C0JUNa_2UqcOy8qnBmNcIvP/view?usp=sharing
